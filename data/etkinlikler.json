@@ -153,5 +153,22 @@
     "eposta": "iletisim@engellihakları.org",
     "telefon": "0224 500 60 70",
     "sosyalMedya": "instagram.com/engellihakları"
+  },
+  {
+    "id": 10,
+    "baslik": "TEMSA Kariyerde Engelleri Kaldırdık Farkındalık Günü",
+    "aciklama": "TEMSA'nın 12. kez düzenlediği 'Kariyerde Engelleri Kaldırdık' programı kapsamında farkındalık etkinliği. 'Vazgeçme' temalı Kapsayıcılık Sohbetleri (Moderatör: Sosyolog Mehmet Kızıltaş, Konuşmacı: Prof. Dr. Ozan Bahar) ve iş arayan engelli adaylar ile firmalar arasında yüz yüze iş görüşmeleri yapılacak. Engelsizkariyer.com, Adana Büyükşehir Belediyesi ve İŞKUR paydaş olarak katkı sağlıyor.",
+    "konum": "Adana, Hilton Adana (Sinanpaşa, Hacı Sabancı Blv. No:1, Yüreğir)",
+    "tarih": "2026-04-20",
+    "saat": "13:00",
+    "engelTuru": "Çalışabilir Engelliler",
+    "tur": "Yüz Yüze",
+    "link": "https://www.instagram.com/p/DXL7ZFOjF__/",
+    "kaynak": "resmi",
+    "kurum": "TEMSA",
+    "katilimciSayisi": 0,
+    "etkinlikTuru": "duzenliyorum",
+    "organizator": "TEMSA (paydaşlar: Engelsizkariyer.com, Adana Büyükşehir Belediyesi, İŞKUR)",
+    "sosyalMedya": "instagram.com/engelsizkariyer"
   }
 ]
